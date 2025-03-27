@@ -30,19 +30,19 @@ python Container_OPS_VXXX.py
 
 ---
 
-## ⚡ Main Features (V1)  
+## ⚡ Main Features (V1.1)  
 
 ### ✅ Pending Jobs Manager  
 - Track vessel discharge, loading, and EDI statuses.  
 - Edit job details **inline** with a dropdown or manual text input.  
 - Jobs are auto-sorted, with completed ones moved to the bottom.  
 
-### 🚢 Ops Report Generator  
+### 🚢 Ops Report & Pre-Payments Generator  
 - Process and log discharge & loading data from Excel files.  
-- Auto-update ops report based on container codes.  
+- Auto-update ops report and prepayments based on container codes and local/transhipment.  
 - Save a **history log** for later reference.  
 
-### 📝 Notepad Tab  
+### 📝Advanced Notepad  
 - Save, edit, and manage notes **directly in the app**.  
 - Sidebar displays all saved notes.  
 - Fast retrieval for easy access!  
@@ -55,15 +55,10 @@ python Container_OPS_VXXX.py
 ### 🎨 Customizable UI  
 - Light & Dark theme modes.  
 - Easy navigation with **clean & structured layouts**.  
+ 
+### ☀️ Weather  
+- Weather Now supported!
+- Based on `OpenWeatherMap`
+- Get a free api key and add it on api text file to get the weather of your location!
 
-### 📂 Data Persistence  
-- SQLite databases (`vessels.db`, `pending_jobs.db`, `notebook.db`, etc.).  
-- Auto-save function ensures your data is **never lost**.  
-
----
-
-## 📌 Future Enhancements  
-- 🔹 Enhanced filtering options  
-- 🔹 Export reports to PDF  
-
-💙 **Enjoy smoother operations with Container OPS V1!** 🚢  
+💙 **Enjoy smoother operations with Container OPS V1.1!** 🚢  
