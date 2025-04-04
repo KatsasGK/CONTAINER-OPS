@@ -61,4 +61,4 @@ python Container_OPS_VXXX.py
 - Based on `OpenWeatherMap`
 - Get a free api key and add it on api text file to get the weather of your location!
 
-💙 **Enjoy smoother operations with Container OPS V1.1!** 🚢  
+💙 **Enjoy smoother operations with Container OPS V1.2!** 🚢  
